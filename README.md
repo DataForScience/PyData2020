@@ -12,7 +12,7 @@ In this course, we will explore the three steps in the ladder of causation: 1. A
 
 ## Schedule
 
-### Properties of Graphical models
+### Graphical models
 - The Ladder of Causality
 - Graphical Models
 - Chains
