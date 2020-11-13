@@ -1,10 +1,10 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CausalInference/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/PyData2020/master)
 
 # Why and What If: Causal Inference for Everyone
 
-### Code and slides to accompany the online series of webinars: https://data4sci.com/causality by Data For Science.
+### Code and slides to accompany the PyData Global 2020 tutorial:  by Data For Science.
 
-### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/CausalInference/master)
+### Run the code in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/PyData2020/master)
 
 How do causes lead to effects? Can you associate the cause leading to the observed effect? Big Data opens the doors for us to be able to answer questions such as this, but before we are able to do so, we must go beyond classical probability theory and dive into the field of Causal Inference.
 
@@ -12,15 +12,9 @@ In this course, we will explore the three steps in the ladder of causation: 1. A
 
 ## Schedule
 
-### 1. Approaches to Causality
-- Probability Theory
-- Simpsons Paradox
-- A/B Testing
-- Granger Causality
-- Graphical Models
-- The Ladder of Causality
-
 ### Properties of Graphical models
+- The Ladder of Causality
+- Graphical Models
 - Chains
 - Forks
 - Colliders
@@ -37,4 +31,4 @@ In this course, we will explore the three steps in the ladder of causation: 1. A
 - Practical Applications
 - Connections to Machine Learning
 
-Slides: http://data4sci.com/landing/causality/
+Slides: http://data4sci.com/landing/pydata2020/
